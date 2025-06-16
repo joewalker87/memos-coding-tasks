@@ -1,0 +1,15 @@
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\bin\Debug\net8.0\Task02StarWarsApi.exe
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\bin\Debug\net8.0\Task02StarWarsApi.deps.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\bin\Debug\net8.0\Task02StarWarsApi.runtimeconfig.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\bin\Debug\net8.0\Task02StarWarsApi.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\bin\Debug\net8.0\Task02StarWarsApi.pdb
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.AssemblyInfoInputs.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.AssemblyInfo.cs
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.csproj.CoreCompileInputs.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.sourcelink.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\refint\Task02StarWarsApi.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.pdb
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\Task02StarWarsApi.genruntimeconfig.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\Task02StarWarsApi\obj\Debug\net8.0\ref\Task02StarWarsApi.dll

@@ -1,0 +1,15 @@
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\bin\Debug\net8.0\Task01Duplicates.exe
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\bin\Debug\net8.0\Task01Duplicates.deps.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\bin\Debug\net8.0\Task01Duplicates.runtimeconfig.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\bin\Debug\net8.0\Task01Duplicates.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\bin\Debug\net8.0\Task01Duplicates.pdb
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.AssemblyInfoInputs.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.AssemblyInfo.cs
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.sourcelink.json
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\refint\Task01Duplicates.dll
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.pdb
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\Task01Duplicates.genruntimeconfig.cache
+C:\Users\josef.prochazka\OneDrive\GitHub\memos-coding-tasks\MemosCodingTasks\obj\Debug\net8.0\ref\Task01Duplicates.dll
