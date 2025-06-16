@@ -3,7 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{042AE1C0-EA4C-4200-88C0-9F7BE7DC430C}|..\\Task03CrewGraph\\Task03CrewGraph.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\task03crewgraph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\memoscodingtasks\\duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|solutionrelative:duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\memoscodingtasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,23 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuplicateFinder.cs",
+              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\DuplicateFinder.cs",
+              "RelativeDocumentMoniker": "DuplicateFinder.cs",
+              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\DuplicateFinder.cs",
+              "RelativeToolTip": "DuplicateFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:01:53.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task03CrewGraph\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Task03CrewGraph\\Program.cs",
-              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task03CrewGraph\\Program.cs",
-              "RelativeToolTip": "..\\Task03CrewGraph\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:42:56.277Z",
+              "WhenOpened": "2025-06-16T19:02:05.279Z",
               "EditorCaption": ""
             }
           ]

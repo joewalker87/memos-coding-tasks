@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Task01Duplicates;
+
+Console.WriteLine("Task 01 - Duplicates");
+
+DuplicateFinder.Run();

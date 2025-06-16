@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task03CrewGraph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2e2e7014a5185e7b6ce72fa9c66b066eed2e5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58cab17c637a1b0b6fdc021c68e8e591ad4d433b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task03CrewGraph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task03CrewGraph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
