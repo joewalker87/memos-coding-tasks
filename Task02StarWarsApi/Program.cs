@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Task02StarWarsApi;
+
+Console.WriteLine("Task 02 - StarWars API");
+
+await StarWarsShipFinder.Run();
