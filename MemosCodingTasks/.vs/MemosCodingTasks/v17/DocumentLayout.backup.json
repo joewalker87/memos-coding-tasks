@@ -3,7 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{042AE1C0-EA4C-4200-88C0-9F7BE7DC430C}|..\\Task03CrewGraph\\Task03CrewGraph.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\task03crewgraph\\crewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\memoscodingtasks\\duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464CAF13-1A98-49E8-99CE-4BE1066F51CF}|Task01Duplicates.csproj|solutionrelative:duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FB1C01-0B6E-44DB-94AE-8064B3659C32}|..\\Task02StarWarsApi\\Task02StarWarsApi.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\task02starwarsapi\\starwarsshipfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FB1C01-0B6E-44DB-94AE-8064B3659C32}|..\\Task02StarWarsApi\\Task02StarWarsApi.csproj|c:\\users\\josef.prochazka\\onedrive\\github\\memos-coding-tasks\\task02starwarsapi\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,25 +20,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CrewService.cs",
-              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task03CrewGraph\\CrewService.cs",
-              "RelativeDocumentMoniker": "..\\Task03CrewGraph\\CrewService.cs",
-              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task03CrewGraph\\CrewService.cs*",
-              "RelativeToolTip": "..\\Task03CrewGraph\\CrewService.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAIAwwEoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T08:01:56.594Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuplicateFinder.cs",
+              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\DuplicateFinder.cs",
+              "RelativeDocumentMoniker": "DuplicateFinder.cs",
+              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\MemosCodingTasks\\DuplicateFinder.cs",
+              "RelativeToolTip": "DuplicateFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:15:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task02StarWarsApi\\Models\\Planet.cs",
+              "RelativeDocumentMoniker": "..\\Task02StarWarsApi\\Models\\Planet.cs",
+              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task02StarWarsApi\\Models\\Planet.cs",
+              "RelativeToolTip": "..\\Task02StarWarsApi\\Models\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:09:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarWarsShipFinder.cs",
+              "DocumentMoniker": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task02StarWarsApi\\StarWarsShipFinder.cs",
+              "RelativeDocumentMoniker": "..\\Task02StarWarsApi\\StarWarsShipFinder.cs",
+              "ToolTip": "C:\\Users\\josef.prochazka\\OneDrive\\GitHub\\memos-coding-tasks\\Task02StarWarsApi\\StarWarsShipFinder.cs",
+              "RelativeToolTip": "..\\Task02StarWarsApi\\StarWarsShipFinder.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:07:58.337Z",
+              "EditorCaption": ""
             }
           ]
         }
