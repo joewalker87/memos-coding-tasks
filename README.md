@@ -1,58 +1,58 @@
 # memos-coding-tasks
 
-Řešení úloh z technického zadání – zaměřeno na práci s daty, REST API a základní logiku nad grafy v jazyce C#.
+Solutions to technical assignments – focused on working with data, REST APIs, and basic graph logic in C#.
 
-## 🔧 Co repozitář obsahuje
+## 🔧 What the repository contains
 
-Repozitář je rozdělený do tří samostatných úloh, každá v samostatném projektu:
+The repository is divided into three standalone tasks, each in a separate project:
 
 ---
 
 ### ✅ Task 01 – Duplicates
 
-- Vygenerování milionu náhodných čísel v daném rozsahu.
-- Nalezení nejčastějších duplikátů pomocí LINQ (`GroupBy`, `ToDictionary`, `OrderByDescending`).
-- Výstup do konzole + zápis do souboru ve formátu CSV (TXT).
-- Automatické otevření souboru v Notepadu.
+- Generate one million random numbers within a given range.
+- Find the most frequent duplicates using LINQ (`GroupBy`, `ToDictionary`, `OrderByDescending`).
+- Output to console + save results to a CSV (TXT) file.
+- Automatically open the file in Notepad.
 
 ---
 
 ### 🚀 Task 02 – Star Wars API
 
-- Načítání veřejných dat z [SWAPI](https://swapi.dev/).
-- Vyhledání všech obyvatel planety **Kashyyyk**.
-- Získání všech lodí, které tito obyvatelé pilotovali.
-- Výpis názvů těchto lodí do konzole.
-- Ošetření výjimek při volání API.
+- Load public data from [SWAPI](https://swapi.dev/).
+- Find all inhabitants of the planet **Kashyyyk**.
+- Get all starships piloted by these inhabitants.
+- Print ship names to the console.
+- Handle exceptions during API calls.
 
-Použito:
+Used:
 - `HttpClient`, `HttpClientHandler`
 - `async/await`
 - `JsonSerializer` (`System.Text.Json`)
-- Parsování URL pro získání ID
+- Parse URL to extract ID
 
 ---
 
 ### 🧠 Task 03 – Graph search
 
-- Datová reprezentace posádky jako **stromová struktura** (graf).
-- Možnost:
-  - Vypsat všechny podřízené zvoleného člena.
-  - Najít „cestu nákazy“ mezi členem posádky a kapitánem lodi (rekurze nahoru přes `Parent`).
+- Represent crew data as a **tree structure** (graph).
+- Features:
+  - Print all subordinates of a selected member.
+  - Find the “infection path” between a crew member and the ship’s captain (recursive upward via `Parent`).
 
-Použito:
-- Rekurze pro průchod stromem
-- Vlastní datová struktura `CrewMember`
-- Jednoduchý přístup pro sestavení cesty
-
----
-
-## 💡 Poznámka
-
-Všechny úlohy byly řešeny bez použití externích knihoven. Důraz byl kladen na přehlednost, čitelnost a samostatné zvládnutí zadání. Případné chyby v datech API (např. chybějící lodě) jsou ošetřeny.
+Used:
+- Recursion for tree traversal
+- Custom data structure `CrewMember`
+- Simple logic to build the path
 
 ---
 
-## 👨‍💻 Autor
+## 💡 Note
 
-Josef Procházka  
+All tasks were solved without using external libraries. Emphasis was placed on clarity, readability, and independent problem-solving. Possible API data issues (e.g., missing ships) are handled.
+
+---
+
+## 👨‍💻 Author
+
+Josef Procházka
